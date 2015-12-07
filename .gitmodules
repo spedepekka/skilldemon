@@ -1,0 +1,9 @@
+[submodule "skilldemon-server"]
+	path = skilldemon-server
+	url = git@github.com:spedepekka/skilldemon-server.git
+[submodule "skilldemon-android-client"]
+	path = skilldemon-android-client
+	url = git@github.com:spedepekka/skilldemon-android-client.git
+[submodule "skilldemon-ansible"]
+	path = skilldemon-ansible
+	url = git@github.com:spedepekka/skilldemon-ansible.git
